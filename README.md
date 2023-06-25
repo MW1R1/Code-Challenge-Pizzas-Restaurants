@@ -217,5 +217,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Author Info
 
-- [Felix Barosio](https://github.com/Felix-Barosio)
+- [Nick Mwirigi](https://github.com/MW1R1)
 # Code-Challenge-Pizzas-Restaurants
